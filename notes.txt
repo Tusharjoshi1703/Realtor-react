@@ -1,0 +1,8 @@
+to terminate a batch job - ctrl c +y
+
+to install tailwind css with react app use
+npm install -D tailwindcss postcss autoprefixer
+
+to run that we use 
+npx tailwindcss init -p
+
